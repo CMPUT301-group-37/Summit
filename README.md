@@ -1,5 +1,8 @@
 # CMPUT 301: Lab 4
 
+## Description
+A collaborative project created to practice using GitHub Organizations and repositories. 
+
 ## Student Details
 **Full Name:** `Fenet Anbesa` \
 **CCID:** `fanbesa`
