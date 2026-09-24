@@ -4,19 +4,19 @@
 **Full Name:** `Fenet Anbesa` \
 **CCID:** `fanbesa`
 
-**Full Name:** `Noreen Borbon`
+**Full Name:** `Noreen Borbon` \
 **CCID:** `borbon`
 
-**Full Name:** `Katelyn Ho`
+**Full Name:** `Katelyn Ho` \
 **CCID:** `kmho `
 
-**Full Name:** `Saba Karaman`
+**Full Name:** `Saba Karaman` \
 **CCID:** `Skaraman`
 
-**Full Name:** `Kshitij Doke`
+**Full Name:** `Kshitij Doke` \
 **CCID:** `kpdoke`
   
-**Full Name:** `Hussain Ali`
+**Full Name:** `Hussain Ali` \
 **CCID:** `hba`  
 
 
