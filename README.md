@@ -1,7 +1,7 @@
 # CMPUT 301: Lab 4
 
 ## Student Details
-**Full Name:** `Fenet Anbesa`
+**Full Name:** `Fenet Anbesa` \
 **CCID:** `fanbesa`
 
 **Full Name:** `Noreen Borbon`
